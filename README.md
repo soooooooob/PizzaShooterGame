@@ -1,3 +1,9 @@
+WELCOME To PizzaShooterGame
+<img width="1440" height="816" alt="image" src="https://github.com/user-attachments/assets/ea1ced5e-1901-4d6a-81f4-2443cc9c1f5a" />
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
